@@ -28,7 +28,5 @@
     "url": "https://github.com/YanYuanFE/react-native-signature-canvas/issues"
   },
   "homepage": "https://github.com/YanYuanFE/react-native-signature-canvas#readme",
-  "peerDependencies": {
-    "react-native-webview": "^11.18.1"
-  }
+  
 }
